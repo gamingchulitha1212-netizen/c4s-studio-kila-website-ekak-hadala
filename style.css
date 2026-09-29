@@ -210,6 +210,49 @@ h1, h2, h3, h4, h5, h6 {
   text-shadow: 0 0 25px rgba(6, 182, 212, 0.45);
 }
 
+.glitch-effect {
+  position: relative;
+  display: inline-block;
+}
+
+.glitch-effect::before,
+.glitch-effect::after {
+  content: attr(data-text);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+.glitch-effect:hover::before {
+  left: 2px;
+  text-shadow: -2px 0 var(--cyan);
+  clip-path: inset(20% 0 30% 0);
+  animation: glitch-anim-1 1.2s infinite linear alternate-reverse;
+}
+
+.glitch-effect:hover::after {
+  left: -2px;
+  text-shadow: -2px 0 var(--rose);
+  clip-path: inset(50% 0 10% 0);
+  animation: glitch-anim-2 1.5s infinite linear alternate-reverse;
+}
+
+@keyframes glitch-anim-1 {
+  0% { clip-path: inset(10% 0 60% 0); transform: translate(-2px, 1px); }
+  50% { clip-path: inset(40% 0 20% 0); transform: translate(2px, -1px); }
+  100% { clip-path: inset(20% 0 50% 0); transform: translate(-1px, 2px); }
+}
+
+@keyframes glitch-anim-2 {
+  0% { clip-path: inset(60% 0 10% 0); transform: translate(2px, -1px); }
+  50% { clip-path: inset(15% 0 65% 0); transform: translate(-2px, 1px); }
+  100% { clip-path: inset(45% 0 30% 0); transform: translate(1px, -2px); }
+}
+
+
 .section {
   position: relative;
   z-index: 1;
