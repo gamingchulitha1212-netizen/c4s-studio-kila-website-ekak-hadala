@@ -28,6 +28,18 @@
       "created_at": "2026-09-29T07:55:20.286Z",
       "sender": "ios",
       "is_cancelled": false
+    },
+    {
+      "id": "5141c774-6f6b-4c77-90c6-b8ba1812005a",
+      "role": "agent",
+      "content": "**C4S Studio** වෙනුවෙන් නිර්මාණය කළ නවීන, Gaming සහ Creative Multimedia Studio වෙබ් අඩවිය සම්පූර්ණයෙන්ම සකස් කර ඇත! 🚀🎮\n\nඔබගේ වෙබ් අඩවිය සජීවීව බැලීමට පහත link එක භාවිතා කරන්න:\n👉 **[C4S Studio Live Preview බලන්න](https://antigravity.luch.dev/site/109d5632-3f1d-4778-8237-e2da030141f0/a51415cc96ccec182a48f2fa/)**\n\n---\n\n### ✨ වෙබ් අඩවියේ ප්‍රධාන අංග සහ විශේෂාංග (Key Features):\n\n1. **Cyberpunk & Gaming UI/UX (Ultra-Modern Design)**:\n   - Orbitron & Plus Jakarta Sans typography සමග Neon Violet (`#8b5cf6`) සහ Cyber Cyan (`#06b6d4`) cyberpunk styling.\n   - පසුබිමේ ක්‍රියාත්මක වන Interactive Glowing Canvas Particle animation.\n   - Hero section එකෙහි Mouse එකට ප්‍රතිචාර දක්වන **Interactive 3D Tilt Card**.\n   - Sound FX Synthesizer (Web Audio API) මගින් බොත්තම් click කරන විට futuristic audio feedback (ශබ්දය On/Off කළ හැක).\n\n2. **Studio Services (සේවාවන්)**:\n   - **Gaming Montages & Highlights** (Valorant, CS2, GTA V, Free Fire, CoD)\n   - **Cinematic Video Editing** (YouTube, TikTok Reels, Color Grading)\n   - **Stream Packs & Overlays** (OBS / Streamlabs 1-Click setup, 60FPS stingers)\n   - **3D Modeling & Intro VFX** (Blender, Unreal Engine 5)\n   - **Esports & Mascot Branding** (Logos, Clan Jerseys, Tournaments)\n   - **Creative Web & Portals**\n\n3. **Interactive Portfolio Showcase (Modal Popups)**:\n   - Category අනුව filter කළ හැකි Portfolio cards (All, Gaming, Video, 3D, Branding).\n   - ඕනෑම Project එකක් click කළ විට විවෘත වන Popup Modal එකක් මගින් Technical Specs (4K 60FPS, Software, Turnaround time) බලාගත හැක.\n   - Modal එකෙන් සෘජුවම Order එකක් යැවීමේ පහසුකම.\n\n4. **Instant Project Cost Estimator (මිල ගණන් ගණනය කිරීමේ Tool එක)**:\n   - පාරිභෝගිකයාට තමන්ට අවශ්‍ය Service එක, Video duration / Assets ප්‍රමාණය සහ Add-ons (4K 60FPS, Custom Sound, 24H Rush Delivery) තෝරාගත හැක.\n   - එම අවස්ථාවේදීම **USD ($)** සහ **Sri Lankan Rupee (රු LKR)** වලින් මුදල ගණනය වේ.\n   - **\"Book This Project\"** click කළ විට එම තොරතුරු කෙලින්ම පහත Contact Form එකට auto-fill වේ!\n\n5. **Pricing Packages & Testimonials**:\n   - Creator Kickstart ($29), Pro Champion Pack ($69), Empire Suite ($149).\n   - Streamers සහ Esports clans වලින් ලැබුණු Testimonials.\n\n6. **FAQ & Contact / Booking Form**:\n   - Smooth Accordion FAQ (ගෙවීම් ක්‍රම, Footage upload කරන ආකාරය, Revisions).\n   - Form submit කළ විට Interactive Transmission notification.\n   - WhatsApp, Discord, Email සහ සමාජ මාධ්‍ය links.\n\n7. **100% Mobile Responsive**:\n   - Smart Phone, Tablet සහ Desktop ඕනෑම තිරයකට ගැලපෙන slide-out drawer navigation.\n\n---\n\n> [!NOTE]\n> ඔබ සිදුකළ වෙනස්කම් ස්වයංක්‍රීයව GitHub repository එකට save වී ඇත. වැඩිදුර වෙනස්කම් (වර්ණ, අකුරු, අලුත් photos හෝ තොරතුරු) එක් කිරීමට අවශ්‍ය නම් දන්වන්න!",
+      "status": "completed",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": "6504b24d-e0e4-453d-b304-0684d765d7a0",
+      "created_at": "2026-09-29T07:58:00.369Z",
+      "sender": "macOS",
+      "is_cancelled": false
     }
   ]
 }
