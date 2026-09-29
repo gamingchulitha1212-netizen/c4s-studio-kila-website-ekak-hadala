@@ -40,6 +40,18 @@
       "created_at": "2026-09-29T07:58:00.369Z",
       "sender": "macOS",
       "is_cancelled": false
+    },
+    {
+      "id": "ccc5fcf1-7796-4ebd-8d44-4e11b773933b",
+      "role": "user",
+      "content": "Lassana google login interfas ekakuth habala denna",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-09-29T08:24:39.219Z",
+      "sender": "ios",
+      "is_cancelled": false
     }
   ]
 }
