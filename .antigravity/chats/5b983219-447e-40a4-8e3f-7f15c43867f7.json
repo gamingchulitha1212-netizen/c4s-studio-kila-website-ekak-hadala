@@ -3,19 +3,19 @@
   "name": "C4s studio kila website ekak hadala",
   "createdAt": "2026-09-29T07:46:32.895Z",
   "filename": "5b983219-447e-40a4-8e3f-7f15c43867f7.json",
-  "geminiStarted": false,
+  "geminiStarted": true,
   "messages": [
     {
       "id": "f7676348-517f-44ab-a4b7-fa02da9ba0da",
       "role": "user",
       "content": "C4s studio kila website ekak hadala denna",
-      "status": "pending",
+      "status": "cancelled",
       "model": "gemini-3.8-flash-high",
       "client_type": "gemini-bridge",
       "parent_message_id": null,
       "created_at": "2026-09-29T07:52:35.902Z",
       "sender": "ios",
-      "is_cancelled": false
+      "is_cancelled": true
     }
   ]
 }
