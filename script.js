@@ -786,3 +786,13 @@ function playSfx(type) {
     // Ignore audio autoplay restrictions
   }
 }
+
+// Ensure global accessibility for inline HTML event handlers
+window.openModal = openModal;
+window.closeModal = closeModal;
+window.orderSimilarProject = orderSimilarProject;
+window.proceedWithEstimate = proceedWithEstimate;
+window.handleContactSubmit = handleContactSubmit;
+window.resetContactForm = resetContactForm;
+window.showToast = showToast;
+
